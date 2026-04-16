@@ -1,4 +1,4 @@
 # ksigns
-KSigns rehosted. **This repository does not contain any malware; the IPAs are identical to the ones on khoindvn.**
+KSigns rehosted. *This repository does not contain any malware; the IPAs are identical to the ones on khoindvn.*
 
-**Archived as the official KSign and ESign downloads are now hosted on GitHub, making this website pointless apart from having no ads (which is minor).**
+**This repository is archived because the official ESign downloads are now hosted on GitHub. Additionally, newer KSigns releases on khoindvn also appear to be hosted on GitHub. However, older versions are still hosted on khoindvn, which is why my site remains online.**
